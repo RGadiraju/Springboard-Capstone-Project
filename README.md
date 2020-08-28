@@ -1,1 +1,1 @@
-# Springboard-Capstone-Project-
+An analysis of song data from Spotify's API to look into what song attributes, words used in song titles, & artists contribute the most to a song being more popular. Can these attributes also be used to predidct the popularity of songs not yet released?
